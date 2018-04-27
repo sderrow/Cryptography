@@ -2,7 +2,6 @@
 
 import time
 from Crypto.Hash import SHA256
-from binascii import hexlify
 
 
 start = time.time()
